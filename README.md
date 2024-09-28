@@ -1,4 +1,4 @@
-1. learn how to make API's and Insert data in mongoDB :
+1. learn how to make/create API's and Insert data in mongoDB :
 2. App Required Vscode, Postman, MongoDB.
 
 3. sudo npm install -g nodemon(this is for mac)/npm install -g nodemon (for windows).
